@@ -1,0 +1,9 @@
+{
+  "versionCode": 104,
+  "versionName": "1.0.104",
+  "file": "Vonoun-104.apk",
+  "size": 21836374,
+  "sha256": "23f85ca3e5b7cc3421a61d162d3098fbb269141faf12bd8d16936b8f6693acc9",
+  "notes": "- Missed SIM calls now show a notification in the status bar, with the caller's photo and a Call back button\n- No more \"Audio on phone\" or \"Audio on earphone\" message when a call starts. Only moving to a Bluetooth device during a call shows a short message\n- The call screen knows about your earphone or Bluetooth before it opens, so the Audio icon is right from the start and no longer jumps\n- The incoming call notification no longer stays behind after the caller hangs up\n- Nicer call notifications: the caller's photo or initial on their own colour, and Mute and Speaker buttons for ongoing SIM and SIP calls\n- No more colour flash on the call screen when a call starts or ends\n- The SIM used for a call now shows as a small SIM card icon with its number\n- One Audio button instead of separate Speaker and Bluetooth buttons, for both SIM and SIP calls. With an earphone or Bluetooth device connected, tap it to choose where the call plays",
+  "notes_bn": "- সিম কলের মিসড কল এখন স্ট্যাটাস বার আর নোটিফিকেশন প্যানেলে দেখায়, কলারের ছবি আর \"কল ব্যাক\" বোতামসহ\n- কল শুরুতে আর \"কথা ফোনে\" বা \"কথা ইয়ারফোনে\" বার্তা আসে না। শুধু কথার মাঝে Bluetooth যন্ত্রে গেলে ছোট বার্তা দেখায়\n- কল স্ক্রিন খোলার আগেই অ্যাপ জানে ইয়ারফোন বা Bluetooth লাগানো কিনা, তাই Audio চিহ্ন শুরু থেকেই ঠিক থাকে, আর লাফায় না\n- কলার কেটে দেওয়ার পর ইনকামিং কলের নোটিফিকেশন আর পড়ে থাকে না\n- আরও সুন্দর কলের নোটিফিকেশন: কলারের ছবি বা নামের আদ্যক্ষর তাঁর নিজের রঙে, আর চলতি সিম ও SIP কলে নিঃশব্দ ও স্পিকার বোতাম\n- কল দেওয়া বা কাটার সময় কল স্ক্রিনে আর রঙের ঝলক নেই\n- কোন সিমে কল, সেটা এখন ছোট সিম কার্ডের চিহ্নে নম্বরসহ দেখায়\n- Speaker আর Bluetooth-এর বদলে একটাই Audio বোতাম, সিম আর SIP দুই কলেই। ইয়ারফোন বা Bluetooth যুক্ত থাকলে চাপলে বেছে নেওয়া যায় কথা কোথায় শুনবেন"
+}
