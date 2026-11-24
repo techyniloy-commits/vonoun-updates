@@ -1,0 +1,9 @@
+{
+  "versionCode": 123,
+  "versionName": "1.0.123",
+  "file": "Vonoun-123.apk",
+  "size": 21391435,
+  "sha256": "06e41fc8492cc7154b579fcfad78cfd53b11e614d53bc6ca1846405e298cb403",
+  "notes": "- Hanging up no longer flashes another contact's name and a different color for a moment before the call-ended screen\n- The call-ended screen now keeps exactly the name and color you saw during the call\n- Unknown numbers in call notifications, the missed call notification and Recordings are now shown as 01711-000001\n- Contacts now says \"1 contact with a phone number\" instead of \"1 contacts with phone numbers\"",
+  "notes_bn": "- কল কাটার মুহূর্তে আর এক ঝলক অন্য কন্টাক্টের নাম আর অন্য রং দেখায় না\n- কল শেষের পাতায় এখন কল চলার সময়ের নাম আর রং-ই থাকে\n- কলের নোটিফিকেশন, মিসড কলের নোটিফিকেশন আর রেকর্ডিংয়ের তালিকায় অচেনা নম্বর এখন 01711-000001 আকারে দেখায়\n- একটাই কন্টাক্ট থাকলে Contacts-এর শিরোনামের নিচের ইংরেজি লেখায় আর ভুল বহুবচন (\"1 contacts\") দেখায় না"
+}
